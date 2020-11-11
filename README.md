@@ -1,6 +1,8 @@
 # Fairly Odd Parents Clicky-Game
 
-This application is a memory game where the user has to select images in order to recieve points.  When the user selects an image the application will then render a different image and if the user selects the same image twice the game ends.  The score is tracked as the user advances through the Fairly Odd Parents themed Clicky-Game!
+This application is a memory game where the user has to select images in order to recieve points.  When the user selects an image the application will then render a different image and if the user selects the same image twice the game ends.  
+
+The score is tracked as the user advances through the Fairly Odd Parents themed Clicky-Game!
 
 ## Table of Contents
   * [Installation](#installation)
@@ -11,10 +13,7 @@ This application is a memory game where the user has to select images in order t
   * [Questions](#questions)
 
 ## Installation
-    npm install
-
-## Website
-https://fierce-island-69053.herokuapp.com/?id=5fa6f2d7c823e9001749032a
+    npm start
 
 ## Technologies Used
 * HTML
@@ -22,6 +21,11 @@ https://fierce-island-69053.herokuapp.com/?id=5fa6f2d7c823e9001749032a
 * Javascript
 * React
 * Bootstrap
+* JSX
+* ES6
+
+## Website
+ https://liamhbradley11.github.io/Clicky-Game/
 
 ## Visuals
 ![alt text](https://i.paste.pics/f8c9e415e22f5fde93a50fd095a1df30.png)
